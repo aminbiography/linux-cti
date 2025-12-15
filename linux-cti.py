@@ -374,6 +374,11 @@ journalctl -xe
 ####################### # # # Linux # # # #####################
 >>>>>>> 8a71c4c9a919458095934130b70ae6f05c896a25
 
+============================================
+Parrot OS
+https://parrotsec.org/
+============================================
+
 # https://www.kali.org/ 
 
 # Download > https://www.kali.org/get-kali/#kali-platforms 
