@@ -26,6 +26,7 @@ Common Linux distributions used in CTI and security:
 * Debian
 * Kali Linux
 * Red Hat / Rocky Linux
+* Parrot OS
 
 Check OS details:
 
