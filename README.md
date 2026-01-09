@@ -6,7 +6,7 @@ Live URL:  https://aminbiography.github.io/linux-cti/
 
 This repository documents **essential Linux knowledge** required for **Cyber Threat Intelligence (CTI)**, SOC operations, threat hunting, and security automation.
 Each section includes **commands, explanations, and expected outputs**.
-
+ 
 ---
  
 ## Linux Core Concepts
