@@ -71,7 +71,7 @@ cti-lab
 
 ---
 
-## 3) Linux File System Structure
+## Linux File System Structure
 
 Key directories:
 
