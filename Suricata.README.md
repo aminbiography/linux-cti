@@ -32,7 +32,7 @@ This is Suricata version 8.0.1 RELEASE
 
 ### Interpretation
 
-   **Suricata is installed correctly.**
+  - **Suricata is installed correctly.**
 
 ---
 
