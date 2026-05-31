@@ -65,7 +65,7 @@ Suricata Configuration:
 
 ### Interpretation
 
-✅ Shows available capabilities.
+   - **Shows available capabilities.**
 
 ---
 
