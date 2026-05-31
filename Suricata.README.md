@@ -102,7 +102,7 @@ mqtt
 
 ### Interpretation
 
-✅ Suricata can decode these protocols.
+   - **Suricata can decode these protocols.**
 
 ---
 
@@ -134,7 +134,7 @@ Success:
 
 ### Interpretation
 
-✅ Configuration is valid.
+   - **Configuration is valid.**
 
 ---
 
@@ -167,7 +167,7 @@ Runmodes:
 
 ### Interpretation
 
-✅ Engine supports these processing modes.
+   - **Engine supports these processing modes.**
 
 ---
 
@@ -203,7 +203,7 @@ default-log-dir: log
 
 ### Interpretation
 
-✅ Shows active runtime configuration.
+   - **Shows active runtime configuration.**
 
 ---
 
@@ -236,7 +236,7 @@ Lua: yes
 
 ### Interpretation
 
-✅ Shows which components are available.
+   - **Shows which components are available.**
 
 ---
 
@@ -268,7 +268,7 @@ Info: Packets: 12000
 
 ### Interpretation
 
-✅ Traffic successfully analyzed.
+   - **Traffic successfully analyzed.**
 
 ---
 
@@ -298,7 +298,7 @@ cat fast.log
 
 ### Interpretation
 
-✅ Suricata detected suspicious activity.
+   - **Suricata detected suspicious activity.**
 
 ---
 
@@ -332,7 +332,7 @@ cat eve.json
 
 ### Interpretation
 
-✅ DNS traffic recorded.
+   - **DNS traffic recorded.**
 
 ---
 
@@ -369,7 +369,7 @@ Info: Packets captured: 1500
 
 ### Interpretation
 
-✅ Live monitoring is active.
+   - **Live monitoring is active.**
 
 ---
 
@@ -406,7 +406,7 @@ Success:
 
 ### Interpretation
 
-✅ Rule syntax is valid.
+   - **Rule syntax is valid.**
 
 ---
 
@@ -438,7 +438,7 @@ Info: Capture started
 
 ### Interpretation
 
-✅ Useful for debugging startup issues.
+   - **Useful for debugging startup issues.**
 
 ---
 
@@ -524,6 +524,4 @@ Expected:
  "event_type":"alert"
 }
 ```
-
-If you can understand the outputs of these **five commands**, you have already covered roughly **70% of beginner-level Suricata operations** on both Windows and Linux.
-
+---
