@@ -618,6 +618,3 @@ This repository is designed to be:
 * Automation-focused
 
 ---
-
-
-Just tell me how deep you want to go.
