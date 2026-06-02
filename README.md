@@ -73,16 +73,39 @@ cti-lab
 
 ## 3) Linux File System Structure
 
-Key directories:
+The Linux file system is organized in a hierarchical structure that begins at the root directory (`/`). Each directory serves a specific role in managing system configuration, user data, applications, logs, and temporary files.
 
-| Directory | Purpose                     |
-| --------- | --------------------------- |
-| /         | Root filesystem             |
-| /etc      | Configuration files         |
-| /var      | Logs, spool files           |
-| /home     | User home directories       |
-| /tmp      | Temporary files             |
-| /usr      | User binaries and libraries |
+| Directory | Purpose                                                                               | Example                               |
+| --------- | ------------------------------------------------------------------------------------- | ------------------------------------- |
+| `/`       | Root directory that serves as the top-level entry point of the filesystem hierarchy.  | `/home`, `/etc`, `/usr`               |
+| `/etc`    | Stores system-wide configuration files and service settings.                          | `/etc/passwd`, `/etc/ssh/sshd_config` |
+| `/var`    | Contains variable data such as logs, caches, mail queues, and spool files.            | `/var/log/syslog`                     |
+| `/home`   | Stores personal files and directories for individual users.                           | `/home/username`                      |
+| `/tmp`    | Provides temporary storage for files created during system and application execution. | `/tmp/example.txt`                    |
+| `/usr`    | Contains user applications, executable binaries, libraries, and documentation.        | `/usr/bin/python3`                    |
+
+**Key Point:** The Linux filesystem uses a single directory tree rooted at `/`, allowing all files and directories to be accessed through a unified hierarchical structure.
+
+
+
+
+
+
+Linux File System Structure
+
+The Linux file system is organized in a hierarchical structure that begins at the root directory (`/`). Each directory serves a specific role in managing system configuration, user data, applications, logs, and temporary files.
+
+| Directory | Purpose                                                                               | Example                               |
+| --------- | ------------------------------------------------------------------------------------- | ------------------------------------- |
+| `/`       | Root directory that serves as the top-level entry point of the filesystem hierarchy.  | `/home`, `/etc`, `/usr`               |
+| `/etc`    | Stores system-wide configuration files and service settings.                          | `/etc/passwd`, `/etc/ssh/sshd_config` |
+| `/var`    | Contains variable data such as logs, caches, mail queues, and spool files.            | `/var/log/syslog`                     |
+| `/home`   | Stores personal files and directories for individual users.                           | `/home/username`                      |
+| `/tmp`    | Provides temporary storage for files created during system and application execution. | `/tmp/example.txt`                    |
+| `/usr`    | Contains user applications, executable binaries, libraries, and documentation.        | `/usr/bin/python3`                    |
+
+**Key Point:** The Linux filesystem uses a single directory tree rooted at `/`, allowing all files and directories to be accessed through a unified hierarchical structure.
+
 
 List root directories:
 
