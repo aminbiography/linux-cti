@@ -91,7 +91,7 @@ The Linux file system is organized in a hierarchical structure that begins at th
 
 
 
-Linux File System Structure
+# Linux File System Structure
 
 The Linux file system is organized in a hierarchical structure that begins at the root directory (`/`). Each directory serves a specific role in managing system configuration, user data, applications, logs, and temporary files.
 
